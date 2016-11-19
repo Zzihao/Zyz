@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ZzihaoEzreal")]
+[assembly: AssemblyTitle("Z字号定制EZ")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ZzihaoEzreal")]
+[assembly: AssemblyProduct("Z字号定制EZ")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("c8324d8a-859a-48e7-9164-3d70c2885a2c")]
+[assembly: Guid("322ad2de-8c6a-46b9-9121-1043f2bfd932")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
