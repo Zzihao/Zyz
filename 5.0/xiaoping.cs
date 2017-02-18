@@ -1,2 +1,2 @@
-﻿[assembly: AssemblyVersion("1.0.3.5")]
+﻿[assembly: AssemblyVersion("1.0.0.5")]
 
