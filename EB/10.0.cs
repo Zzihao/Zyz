@@ -1,2 +1,2 @@
-[assembly: AssemblyVersion("1.0.0.2")]
-ZzihaoVersion 1.0.0.2
+[assembly: AssemblyVersion("1.0.0.3")]
+ZzihaoVersion 1.0.0.3
